@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+}
+
+nav{
+
+    background: #F55A5A;
+    height: 30px;
+    text-align: center;
+    }
+nav>h5{
+     padding: 8px;
+     color: white;  
+}
+img{
+height: 168px;
+width: 125px;
+left: 40px;
+top: 100px;
+border-radius: 5px;
+margin: 30px;
+}
+p{
+    height: 45px;
+width: 320px;
+left: 184px;
+top: 203px;
+border-radius: nullpx;
+margin:0;
+}
+.cardss{
+float: left;
+}
+.caption{
+    display: block;
+    margin:10px;
+    line-height: 0
+}
+.cont{
+    margin:20px;
+}
